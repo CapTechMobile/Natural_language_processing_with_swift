@@ -1,2 +1,4 @@
-# Natural_language_processing_with_swift
-A collection of code snippets to demonstrate NLP using swift
+# Natural Language Processing With Swift
+
+This is a collection of code snippets which demonstrate the powerful new APIs that have been added to the iOS natural language processing service. 
+
